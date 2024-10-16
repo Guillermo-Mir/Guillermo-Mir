@@ -6,7 +6,7 @@
 
 ```kotlin
 class SoftwareEngineer {
-    var name: String = "Alan Teixidó"
+    var name: String = "Guillermo Mir"
     var role: String = "Passionate Learner"
     var languagesSpoken: List<String> = listOf("es_ES", "en_US")
 
