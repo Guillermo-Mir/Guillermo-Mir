@@ -25,7 +25,7 @@ You can contact me throught my email
 ## 📧 Connect with me
 
 Feel free to contact me via:
-- ✉ Email: [contact@carloscapo.com](mailto:guillermo.mir.7e8@itb.cat)
+- ✉ Email: [guillermo.mir.7e8@itb.cat](mailto:guillermo.mir.7e8@itb.cat)
 
 
 [![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guillermo-Mir)
