@@ -19,9 +19,6 @@ I'm Guillermo Mir, a passionate learner currently enrolled in the ITB (Institut 
 🌱 **Currently Learning:**
 I'm immersed in the exciting world of web development, honing my skills and expanding my knowledge in the realm of creating web applications.
 
-📫 **Connect with Me:**
-You can contact me throught my email
-
 ## 📧 Connect with me
 
 Feel free to contact me via:
