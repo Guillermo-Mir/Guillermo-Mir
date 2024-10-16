@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%20aquest%20és%20el%20meu%20perfil)](https://git.io/typing-svg)
 
-![Header banner](https://github.com/AlanTeixido/AlanTeixido/assets/152865024/82cff999-2562-4353-a76c-8605fd579cd2)
+![Header banner](https://github.com/AlanTeixido/GuillermoMir/assets/152865024/82cff999-2562-4353-a76c-8605fd579cd2)
 
 
 ```kotlin
@@ -17,7 +17,7 @@ class SoftwareEngineer {
 ```
 # Hi there! 👋
 
-I'm Alan Teixidó, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
+I'm Guillermo Mir, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
 
 🌱 **Currently Learning:**
 I'm immersed in the exciting world of web development, honing my skills and expanding my knowledge in the realm of creating web applications.
