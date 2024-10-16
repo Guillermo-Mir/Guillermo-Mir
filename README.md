@@ -1,8 +1,5 @@
 
 
-![Header banner](https://github.com/AlanTeixido/GuillermoMir/assets/152865024/82cff999-2562-4353-a76c-8605fd579cd2)
-
-
 ```kotlin
 class SoftwareEngineer {
     var name: String = "Guillermo Mir"
@@ -25,11 +22,10 @@ I'm immersed in the exciting world of web development, honing my skills and expa
 📫 **Connect with Me:**
 Feel free to reach out and connect with me on LinkedIn. I'm always open to networking and engaging in conversations related to web development, technology, and more. You can also contact me through my email.
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanteixidosararols)
-[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teixido.alan@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo.mir.7e8@itb.cat)
 
 
-[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlanTeixido)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guillermo-Mir)
 
 
 
