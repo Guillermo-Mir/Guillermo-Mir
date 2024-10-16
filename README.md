@@ -22,7 +22,10 @@ I'm immersed in the exciting world of web development, honing my skills and expa
 📫 **Connect with Me:**
 You can contact me throught my email
 
-[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo.mir.7e8@itb.cat)
+## 📧 Connect with me
+
+Feel free to contact me via:
+- ✉ Email: [contact@carloscapo.com](mailto:guillermo.mir.7e8@itb.cat)
 
 
 [![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guillermo-Mir)
