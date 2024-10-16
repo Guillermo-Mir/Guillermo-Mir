@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%20aquest%20és%20el%20meu%20perfil)](https://git.io/typing-svg)
+
 
 ![Header banner](https://github.com/AlanTeixido/GuillermoMir/assets/152865024/82cff999-2562-4353-a76c-8605fd579cd2)
 
@@ -16,6 +15,7 @@ class SoftwareEngineer {
 }
 ```
 # Hi there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%20aquest%20és%20el%20meu%20perfil)](https://git.io/typing-svg)
 
 I'm Guillermo Mir, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
 
