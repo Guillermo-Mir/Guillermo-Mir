@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola%20aquest%20és%20el%20meu%20perfil)](https://git.io/typing-svg)
 
 <!--
 **Guillermo-Mir/Guillermo-Mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
