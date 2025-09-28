@@ -4,7 +4,6 @@ I'm Guillermo Mir, a passionate learner currently enrolled in the ITB (Institut 
 ###
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
-
 🌱 **Currently Learning:**
 I'm immersed in the exciting world of web development, honing my skills and expanding my knowledge in the realm of creating web applications.
 
